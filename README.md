@@ -1,4 +1,4 @@
-<h2 align="left"> I’m passionate about both business analysis and software testing, with a strong focus on quality assurance and continuous improvement. I aim to bridge the gap between business requirements and technical solutions, ensuring that software meets both user needs and high-quality standards. Through meticulous testing and effective documentation, I strive to deliver reliable, user-friendly software while supporting the success of the business. </h2>
+<h2 align="left"> I’m passionate about both business analysis and software testing 💻, with a strong focus on quality assurance ✅ and continuous improvement 📈. I aim to bridge the gap between business requirements and technical solutions 🔧, ensuring that software meets both user needs 🧑‍💻 and high-quality standards 🌟. Through meticulous testing 🔍 and effective documentation 📚, I strive to deliver reliable, user-friendly software 🖥️ while supporting the success of the business 📊. </h2>
 
 ###
 
